@@ -2,7 +2,7 @@
     "name": "wong/composer-test",
     "description": "composer",
     "type": "composer-plugin",
-    "license": "wc",
+    "license": "MIT",
     "minimum-stability": "dev",
     "autoload": {
         "psr-4":{
