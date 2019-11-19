@@ -1,7 +1,7 @@
 {
     "name": "wong/composer-test",
     "description": "composer",
-    "type": "composer-plugin",
+    "type": "project",
     "license": "MIT",
     "minimum-stability": "dev",
     "autoload": {
