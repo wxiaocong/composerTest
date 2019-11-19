@@ -2,9 +2,6 @@
     "name": "wong/composer-test",
     "description": "composer",
     "type": "composer-plugin",
-    "require": {
-        "php": "7.2.4"
-    },
     "license": "wc",
     "minimum-stability": "dev",
     "autoload": {
